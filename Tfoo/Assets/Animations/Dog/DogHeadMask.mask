@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DogHeadMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: bear
+    m_Weight: 0
+  - m_Path: bear/Root
+    m_Weight: 0
+  - m_Path: bear/Root/Back
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Leftarm.001
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Leftarm.001/Leftarm.004
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Leftarm.001/Leftarm.004/Leftarm.004_end
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Leftleg
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Leftleg/Leftleg.002
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Leftleg/Leftleg.002/Leftleg.002_end
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Neck
+    m_Weight: 1
+  - m_Path: bear/Root/Back/Neck/Head
+    m_Weight: 1
+  - m_Path: bear/Root/Back/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: bear/Root/Back/Rightarm.001
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Rightarm.001/Rightarm.004
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Rightarm.001/Rightarm.004/Rightarm.004_end
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Rightleg
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Rightleg/Rightleg.002
+    m_Weight: 0
+  - m_Path: bear/Root/Back/Rightleg/Rightleg.002/Rightleg.002_end
+    m_Weight: 0
+  - m_Path: bear/Root/LeftarmfootIK
+    m_Weight: 0
+  - m_Path: bear/Root/LeftarmfootIK/Leftarm.005
+    m_Weight: 0
+  - m_Path: bear/Root/LeftarmfootIK/Leftarm.005/Leftarm.005_end
+    m_Weight: 0
+  - m_Path: bear/Root/LeftarmkneeIK
+    m_Weight: 0
+  - m_Path: bear/Root/LeftarmkneeIK/LeftarmkneeIK_end
+    m_Weight: 0
+  - m_Path: bear/Root/leftfootIK
+    m_Weight: 0
+  - m_Path: bear/Root/leftfootIK/Leftleg.003
+    m_Weight: 0
+  - m_Path: bear/Root/leftfootIK/Leftleg.003/Leftleg.003_end
+    m_Weight: 0
+  - m_Path: bear/Root/LeftkneeIK
+    m_Weight: 0
+  - m_Path: bear/Root/LeftkneeIK/LeftkneeIK_end
+    m_Weight: 0
+  - m_Path: bear/Root/RightarmfootIK
+    m_Weight: 0
+  - m_Path: bear/Root/RightarmfootIK/Rightarm.005
+    m_Weight: 0
+  - m_Path: bear/Root/RightarmfootIK/Rightarm.005/Rightarm.005_end
+    m_Weight: 0
+  - m_Path: bear/Root/RightarmkneeIK
+    m_Weight: 0
+  - m_Path: bear/Root/RightarmkneeIK/RightarmkneeIK_end
+    m_Weight: 0
+  - m_Path: bear/Root/RightfootIK
+    m_Weight: 0
+  - m_Path: bear/Root/RightfootIK/Rightleg.003
+    m_Weight: 0
+  - m_Path: bear/Root/RightfootIK/Rightleg.003/Rightleg.003_end
+    m_Weight: 0
+  - m_Path: bear/Root/RightkneeIK
+    m_Weight: 0
+  - m_Path: bear/Root/RightkneeIK/RightkneeIK_end
+    m_Weight: 0
+  - m_Path: Circle
+    m_Weight: 0
+  - m_Path: Cube
+    m_Weight: 0
+  - m_Path: Mesh
+    m_Weight: 0
+  - m_Path: Sphere
+    m_Weight: 0
