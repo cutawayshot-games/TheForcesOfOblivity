@@ -16,7 +16,7 @@ public class bullet : MonoBehaviour
 
     void Start()
     {
-        hashit = false;
+        hashit = true;
         Instantiatehiteffets();
     }
 
